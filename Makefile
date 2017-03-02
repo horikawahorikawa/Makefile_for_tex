@@ -1,4 +1,4 @@
-TARGET = horikawa_robomech2017
+TARGET = YOUR_FILE_NAME 
 SOURECE = $(shell ls fig/*.eps)
 
 LATEX = platex -kanji=utf8 -shell-escape -src-specials -synctex=1 -halt-on-error
